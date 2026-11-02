@@ -60,6 +60,12 @@ The project uses the following AWS resources:
 | CodeDeploy Application | GlobalMart-Catalog    |
 | Deployment Group       | GlobalMart-Production |
 
+## Architecture Diagram
+
+See the [E-COMMERCE AWS CI/CD ARCHITECTURE](docs/architecture.md) for the deployment workflow and infrastructure design.
+
+
+
 ## Project Structure
 
 ```text
